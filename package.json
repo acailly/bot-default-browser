@@ -1,0 +1,9 @@
+{
+  "name": "bot-default-browser",
+  "version": "1.0.0",
+  "dependencies": {
+    "cross-env": "5.0.5",
+    "lodash": "^4.17.5",
+    "regedit": "^2.2.7"
+  }
+}
